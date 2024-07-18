@@ -21,7 +21,7 @@ image:
   tag: latest
 
 env:
-  REST_URL: 
+  REST_URL: https://redhat-dog-image-generation.apps.wearedevs.rl97.p1.openshiftapps.com
 
 imagePullSecrets: []
 nameOverride: ""
